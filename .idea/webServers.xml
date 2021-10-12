@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e31335b1-e23c-491d-83da-17d225a1fcce" name="about-netty-ramirez" url="https://ddc-web-student.cnm.edu/~nramirez40/about-netty-ramirez">
+        <fileTransfer rootFolder="/home/nramirez40/public_html/about-netty-ramirez" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="1fa5c26b-d845-400c-81b4-3d25d73892da" sshConfig="nramirez40@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
